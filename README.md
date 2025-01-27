@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gulshan Abdul Haq</h1>
+<h1 align="center">Hi 👋, I'm Gulshan</h1>
 <h3 align="center">A passionate frontend developer and web designer from Norway Stavanger.</h3>
 
 - 📗 I’m currently working on **Gutendex React-prosjekt**
