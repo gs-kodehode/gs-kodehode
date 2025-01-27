@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gulshan Abdul Haq</h1>
 <h3 align="center">A passionate frontend developer and web designer from Norway Stavanger.</h3>
 
-- 🔭 I’m currently working on **Gutendex React-prosjekt**
+- 📗 I’m currently working on **Gutendex React-prosjekt**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript React and Figma**
+- 📊 I’m currently learning **HTML, CSS, JavaScript React and Figma**
 
-- 📫 How to reach me **haq.gs@outlook.com**
+- 📥 How to reach me **haq.gs@outlook.com**
 
-- ⚡ Fun fact **I love making memories through swimming, hiking, and traveling!**
+- ☘️Fun fact I love making memories through swimming, hiking, and traveling ✨
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
